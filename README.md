@@ -1,4 +1,7 @@
-# Reddit n8n Workflow Setup Guide 
+# Reddit n8n Workflow Setup Guide
+
+<img width="1220" height="554" alt="image" src="https://github.com/user-attachments/assets/7a124506-f66d-4577-a685-f412710985c1" />
+
 ###  Workflow Description
 This n8n workflow is a Reddit workflow Finder that automatically scrapes Reddit posts from specified subreddits, filters for posts containing valuable resources (GitHub repositories, YouTube videos, or Google Docs/Drive links), and stores the results in Airtable for easy organization and analysis.
 
